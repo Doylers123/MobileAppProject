@@ -1,0 +1,1 @@
+C:\Users\G00335783\source\repos\AnimeList\AnimeList\AnimeList.UWP\AnimeList.UWP.csproj;x86

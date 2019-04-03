@@ -1,0 +1,11 @@
+C:\Users\G00335783\source\repos\AnimeList\AnimeList\AnimeList\bin\Debug\netstandard2.0\AnimeList.deps.json
+C:\Users\G00335783\source\repos\AnimeList\AnimeList\AnimeList\bin\Debug\netstandard2.0\AnimeList.dll
+C:\Users\G00335783\source\repos\AnimeList\AnimeList\AnimeList\bin\Debug\netstandard2.0\AnimeList.pdb
+C:\Users\G00335783\source\repos\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\G00335783\source\repos\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\G00335783\source\repos\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\AnimeList.csproj.CoreCompileInputs.cache
+C:\Users\G00335783\source\repos\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\AnimeList.AssemblyInfoInputs.cache
+C:\Users\G00335783\source\repos\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\AnimeList.AssemblyInfo.cs
+C:\Users\G00335783\source\repos\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\G00335783\source\repos\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\AnimeList.dll
+C:\Users\G00335783\source\repos\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\AnimeList.pdb
